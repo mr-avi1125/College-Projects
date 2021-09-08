@@ -1,7 +1,7 @@
 Trainning Phase
 Testing Phase
 
-Vowel : a
+Testing for Vowel : a
 Vowel is : a
 Vowel is : a
 Vowel is : a
@@ -13,7 +13,7 @@ Vowel is : a
 Vowel is : a
 Vowel is : a
 
-Vowel : e
+Testing for Vowel : e
 Vowel is : e
 Vowel is : e
 Vowel is : e
@@ -25,7 +25,7 @@ Vowel is : e
 Vowel is : e
 Vowel is : i
 
-Vowel : i
+Testing for Vowel : i
 Vowel is : i
 Vowel is : i
 Vowel is : i
@@ -37,7 +37,7 @@ Vowel is : i
 Vowel is : i
 Vowel is : i
 
-Vowel : o
+Testing for Vowel : o
 Vowel is : o
 Vowel is : o
 Vowel is : o
@@ -49,7 +49,7 @@ Vowel is : o
 Vowel is : o
 Vowel is : o
 
-Vowel : u
+Testing for Vowel : u
 Vowel is : u
 Vowel is : u
 Vowel is : u
