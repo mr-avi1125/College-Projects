@@ -1,0 +1,64 @@
+Trainning Phase
+Testing Phase
+
+Vowel : a
+Vowel is : a
+Vowel is : a
+Vowel is : a
+Vowel is : a
+Vowel is : a
+Vowel is : a
+Vowel is : a
+Vowel is : a
+Vowel is : a
+Vowel is : a
+
+Vowel : e
+Vowel is : e
+Vowel is : e
+Vowel is : e
+Vowel is : e
+Vowel is : e
+Vowel is : e
+Vowel is : e
+Vowel is : e
+Vowel is : e
+Vowel is : i
+
+Vowel : i
+Vowel is : i
+Vowel is : i
+Vowel is : i
+Vowel is : i
+Vowel is : i
+Vowel is : i
+Vowel is : i
+Vowel is : i
+Vowel is : i
+Vowel is : i
+
+Vowel : o
+Vowel is : o
+Vowel is : o
+Vowel is : o
+Vowel is : o
+Vowel is : a
+Vowel is : o
+Vowel is : a
+Vowel is : o
+Vowel is : o
+Vowel is : o
+
+Vowel : u
+Vowel is : u
+Vowel is : u
+Vowel is : u
+Vowel is : u
+Vowel is : u
+Vowel is : u
+Vowel is : u
+Vowel is : u
+Vowel is : u
+Vowel is : u
+
+ACCURACY IS : 47/50
